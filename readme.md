@@ -1,1 +1,1 @@
-#### This script predicts the "keyword" of a course from its title using logistic regression. This is a multiclass classification problem. 
+#### This script predicts the "keyword" of a course from its title using logistic regression. This is a multiclass classification problem. First of all, install pipreqsnb using "pip install pipreqsnb" and issue command "pipreqsnb ." to install libraries from the .ipynb file.
